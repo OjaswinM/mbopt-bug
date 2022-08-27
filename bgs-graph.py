@@ -27,5 +27,5 @@ plt.bar(bg_keys, bg_vals, width = 0.4)
  
 plt.xlabel("Block group")
 plt.ylabel("No. of allocations in group")
-plt.title("Allocation spread with mb_optimize_scan=1")
+plt.title("Allocation spread with mb_optimize_scan=0")
 plt.show()
